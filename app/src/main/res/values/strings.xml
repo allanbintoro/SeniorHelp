@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeniorHelp</string>
+    <string name="login">login</string>
+    <string name="senior">Senior</string>
+    <string name="service_provider">Service Provider</string>
+    <string name="title_activity_senior_helper_map">Map</string>
+</resources>

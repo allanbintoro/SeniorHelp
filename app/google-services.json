@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1077704746598",
+    "firebase_url": "https://seniorhelp-70e6d.firebaseio.com",
+    "project_id": "seniorhelp-70e6d",
+    "storage_bucket": "seniorhelp-70e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077704746598:android:58d857949e0fa2d0",
+        "android_client_info": {
+          "package_name": "com.allan.seniorhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077704746598-a6cjusv9lnnhv210rsle1b6lucireqv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allan.seniorhelp",
+            "certificate_hash": "8aedb74289552c9650a7c337a4fa5a47559b81a4"
+          }
+        },
+        {
+          "client_id": "1077704746598-njd9uri3rq086aqnn1a9221k9fiq6j7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIyDZOCXzYdprCKVIgeYqmrnTs_eTD3oQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077704746598-njd9uri3rq086aqnn1a9221k9fiq6j7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
